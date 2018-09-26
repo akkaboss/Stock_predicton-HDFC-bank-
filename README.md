@@ -1,2 +1,2 @@
-# Stock_predicton-HDFC-bank-
-Using 10 years of data to train machine learning model to predict stock statistics.
+# Stock_Prediction_HDFCbank
+Here we used 10 years of data to train our machine learning model to predict stock statistics.
